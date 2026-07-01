@@ -1,9 +1,6 @@
 # predictive
 Predictive Analytics
 
-Here's a copy-paste-ready summary of the project:
-
----
 
 **Housing Price Predictive Analytics**
 
